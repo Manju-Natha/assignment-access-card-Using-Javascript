@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+  background-color: #2d3a8c;
+  height: 30vh;
+  width: 80vw;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.heading1 {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.formcontainer {
+  background-color: #ffffff;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  height: 70vh;
+  width: 80vw;
+}
+
+.formheading {
+  font-size: 25px;
+}
+
+.boxcontainer {
+  background-color: #e4e7eb;
+  border-radius: 30px;
+  border-collapse: #cbd2d9;
+  border-style: solid;
+  border-width: 1px;
+  padding: 20px;
+}
+
+.boxcontainer1 {
+  background-color: #ffffff;
+  border-radius: 30px;
+  border-collapse: #cbd2d9;
+  border-style: solid;
+  border-width: 0px;
+  padding: 20px;
+}
+
+ul p {
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+label {
+  color: grey;
+}
+
+p {
+  color: red;
+}
